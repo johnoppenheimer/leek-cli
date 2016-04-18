@@ -1,0 +1,24 @@
+{
+  "name": "leeks-cli",
+  "version": "1.0.0",
+  "description": "CLI to use leekwars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnoppenheimer/leeks-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "leekwars"
+  ],
+  "author": "Maxime <Oppenheimer>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnoppenheimer/leeks-cli/issues"
+  },
+  "homepage": "https://github.com/johnoppenheimer/leeks-cli#readme"
+}
